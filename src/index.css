@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.container {
+    @apply mx-auto;
+}
+
+
+.navbar .active {
+    color: goldenrod;
+}
